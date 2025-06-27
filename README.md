@@ -1,0 +1,1 @@
+Hello, there. To have a brief introduction, this project is just used as a collection for some of my previous works relevent to data science and programming. If you interested, feel free to check out these works and codes:) 
